@@ -1,0 +1,7 @@
+﻿{
+	"Data": {
+		"DefaultConnection": {
+			"ConnectionString": "Server=Localhost;Database=DogsOfZurich;Trusted_Connection=True;"
+		}
+	}
+}
